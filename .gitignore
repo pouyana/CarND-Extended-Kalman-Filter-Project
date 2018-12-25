@@ -6,7 +6,7 @@ build/
 
 # editor config
 .vscode/
-
+Debug
 # Xcode
 *.pbxuser
 !default.pbxuser
